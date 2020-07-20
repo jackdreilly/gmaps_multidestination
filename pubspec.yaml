@@ -1,5 +1,8 @@
 name: gmaps_multidestination
 description: Get travel times to multiple destinations in batch
+homepage: https://github.com/jackdreilly/gmaps_multidestination
+repository: https://github.com/jackdreilly/gmaps_multidestination
+publish:
 version: 1.0.0
 
 environment:
